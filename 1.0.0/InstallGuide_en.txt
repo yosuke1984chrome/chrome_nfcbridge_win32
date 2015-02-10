@@ -1,0 +1,50 @@
+﻿'chrome.nfcbridge.win32' is application that works with 'NFC Bridge for Win32' chrome extension.
+
+this app get NFC cards ID with pc/sc smart card readers, 
+and sends data to 'NFC Bridge for Win32' chrome extension.
+To use this app, you need 'NFC Bridge for Win32' chrome extension and device drivers for card readers.
+
+
+######################
+    How to install
+######################
+
+1. Install 'NFC Bridge for Win32'
+   Search 'NFC Bridge for Win32' in the Chrome Web Store, and install it.
+
+2. Install 'chrome.nfcbridge.win32'
+   Execute 'install_host.bat' and register the registry data of this app.
+
+Note:After the installation, don't move this folder, and keep files in this folder together.
+     If you want to move, reinstall this app by  executing 'install_host.bat'.
+
+
+
+######################
+   How to update
+######################
+
+1. Update 'NFC Bridge for Win32'
+   Chrome will update extensions automatically.
+
+2. Update 'chrome.nfcbridge.win32'
+   Download the latest version of this app in the GitHub page, and execute 'install_host.bat'.
+
+
+######################
+   How to uninstall
+######################
+
+
+1. Uninstall 'NFC Bridge for Win32'
+   Open extension page by Chrome Menu's 'More tools' > 'Extensions', and delete 'NFC Bridge for Win32'.
+
+2. Uninstall 'chrome.nfcbridge.win32'
+   Execute 'uninstall_host.bat', and delete the registry data of this app.
+
+***************
+   Cautions
+***************
+ 1.I won't take responsibilities for any damages about installing and using this application and chrome extension.
+
+ 2.The copyright of this applicationand chrome extension belongs to me, but you can see source codes in the GitHub page.
