@@ -4,6 +4,6 @@
   "path": "chrome.nfcbridge.win32.exe",
   "type": "stdio",
   "allowed_origins": [
-    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+    "chrome-extension://fpfopfkmppdokphaignimakbaglmbegn/"
   ]
 }

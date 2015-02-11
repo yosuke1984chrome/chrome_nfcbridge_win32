@@ -1,4 +1,4 @@
-﻿'chrome.nfcbridge.win32' is application that works with 'NFC Bridge for Win32' chrome extension.
+'chrome.nfcbridge.win32' is application that works with 'NFC Bridge for Win32' chrome extension.
 
 this app get NFC cards ID with pc/sc smart card readers, 
 and sends data to 'NFC Bridge for Win32' chrome extension.
