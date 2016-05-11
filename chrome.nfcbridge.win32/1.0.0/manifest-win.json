@@ -1,0 +1,9 @@
+﻿{
+  "name": "chrome.nfcbridge.win32",
+  "description": "Reading NFC cards test",
+  "path": "chrome.nfcbridge.win32.exe",
+  "type": "stdio",
+  "allowed_origins": [
+    "chrome-extension://knldjmfmopnpolahpmmgbagdohdnhkik/"
+  ]
+}
